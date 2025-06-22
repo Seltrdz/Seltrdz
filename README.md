@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Seltrdz
-- 👀 I’m interested in python
+- 👋 Hi, I’m selt rachid @Seltrdz
+- 👀 I’m interested in python and typescript
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on networks
-- 📫 How to reach me r.selt@univ-djelfa.dz
 - 😄 Pronouns: rachid
 - ⚡ Fun fact: ...
 
